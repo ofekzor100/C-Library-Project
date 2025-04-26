@@ -1,0 +1,102 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/Exceptions.h
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/Main.cpp
+iostream
+-
+string
+-
+library.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/library.h
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/RSA.h
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/book.h
+iostream
+-
+string
+-
+fstream
+-
+assert.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/assert.h
+vector
+-
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/librarian.h
+user.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/user.h
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/library.h
+user.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/user.h
+librarian.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/librarian.h
+loaner.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loaner.h
+book.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/book.h
+sstream
+-
+iostream
+-
+chrono
+-
+ctime
+-
+vector
+-
+set
+-
+Exceptions.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/Exceptions.h
+RSA.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/RSA.h
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loan.h
+string
+-
+iostream
+-
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loan_history.h
+string
+-
+iostream
+-
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loaner.h
+user.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/user.h
+loan.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loan.h
+loan_history.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loan_history.h
+reservation.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/reservation.h
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/reservation.h
+string
+-
+iostream
+-
+
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/user.h
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+book.h
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/book.h
+

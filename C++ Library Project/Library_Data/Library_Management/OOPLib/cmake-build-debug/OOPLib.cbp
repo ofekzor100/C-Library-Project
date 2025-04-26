@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OOPLib"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Main">
+				<Option output="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_CLI/Main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/../../../Library_CLI"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.41.33901\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.41.33901\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 Main"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Main/fast">
+				<Option output="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_CLI/Main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/../../../Library_CLI"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.41.33901\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.41.33901\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 Main/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OOPLib">
+				<Option output="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug/OOPLib.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.41.33901\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.41.33901\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 OOPLib"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OOPLib/fast">
+				<Option output="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug/OOPLib.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.41.33901\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.41.33901\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 OOPLib/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\ofekz\OneDrive - Technion\Desktop\Technion\Clion_new_projects\old\C++ Library Project\Library_Data\Library_Management\OOPLib\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/Exceptions.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/Main.cpp">
+			<Option target="Main"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/RSA.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/RSA.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/book.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/book.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/librarian.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/librarian.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/library.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/library.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loan.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loan.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loan_history.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loan_history.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loaner.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/loaner.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/reservation.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/reservation.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/user.cpp">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/user.h">
+			<Option target="OOPLib"/>
+		</Unit>
+		<Unit filename="C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

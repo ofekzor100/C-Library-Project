@@ -1,0 +1,4 @@
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug/CMakeFiles/Main.dir
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug/CMakeFiles/OOPLib.dir
+C:/Users/ofekz/OneDrive - Technion/Desktop/Technion/Clion_new_projects/old/C++ Library Project/Library_Data/Library_Management/OOPLib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
